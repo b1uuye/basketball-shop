@@ -171,6 +171,7 @@
     }
     .nav-menu-visible{
         display: flex;
+        width: 92%;
     }
     .nav-dropdown.open{
         transform: rotate(90deg);
